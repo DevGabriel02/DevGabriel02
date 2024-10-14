@@ -1,4 +1,5 @@
 👋 Olá, eu sou @DevGabriel02
+
 👀 Tenho interesse em novas tecnologias e estou trabalhando como Desenvolvedor Júnior.
 🌱 Atualmente estou utilizando HTML, CSS, JavaScript, React, Bootstrap e React Native, com foco principalmente em front-end.
 💼 Também possuo conhecimentos em back-end com Spring Boot (Java) e banco de dados MySQL e SQL Server.
