@@ -11,6 +11,7 @@
 📫 Você pode me contatar pelo meu perfil no GitHub ou pelo email devgabriel02@example.com.
 
 😄 Pronomes: Ele/Dele
+
 ⚡ Curiosidades: Gosto de musculação, ouvir música e estudar novas tecnologias!
 <!---
 DevGabriel02/DevGabriel02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
